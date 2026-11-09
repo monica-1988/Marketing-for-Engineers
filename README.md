@@ -280,6 +280,7 @@ Let's start with the basics, which can be used for any social media platform:
 📌 Useful SMM toolbox:
 * When you have multiple Social Media accounts, use dashboards & tools for managing them in one place. My favorite ones are [Buffer](https://buffer.com/) and [Hootsuite](https://hootsuite.com/) (both have free options). These tools have built-in analytics. So you can pick simple metrics that are meaningful and can be analyzed.
 * [Pablo](https://pablo.buffer.com/) and [Canva](https://www.canva.com/) for fast creating of nice-looking images (both free).
+* [AdVariq](https://advariq.com/) - AI commercial ad creative and product marketing visual generator for online brands, DTC sellers, and startups.
 * [Nuzzel](http://nuzzel.com/) can show you the top content being shared among all your followers on Twitter and Facebook. You can use that content for sharing or as an example. It's a free tool.
 * [Google Analytics Campaign URL builder](https://ga-dev-tools.appspot.com/campaign-url-builder/) for making UTM codes and here is a guide on [Using UTM Parameters to Track Social Media Success](https://blog.hootsuite.com/how-to-use-utm-parameters/) from Hootsuite.
 
